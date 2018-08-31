@@ -1,6 +1,4 @@
-# APRL
-
-A Portal for Researchers and Learners
+# JUNE
 
 ## Getting Started
 
