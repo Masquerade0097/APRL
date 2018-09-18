@@ -1,6 +1,4 @@
-# JUNE
-
-Legacy Code for APRL.
+# APRL (A Platform for Researchers and Learners)
 
 ## Getting Started
 
